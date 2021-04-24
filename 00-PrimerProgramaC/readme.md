@@ -1,1 +1,3 @@
-En el codigo voy a imprimir mi nombre completo. 
+Hola, en mi codigo del tp 0, el programa pide un nombre, lo guarda y lo imprime. 
+
+
